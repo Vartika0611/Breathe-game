@@ -5,11 +5,11 @@ Breathe is an interactive breathing game designed to help users reduce stress an
 
 This project promotes mental wellness by combining simple game mechanics with scientifically proven breathing techniques.
 
-🎯 Features
+🎯 Features.
 
-🫁 Guided inhale & exhale animations
+🫁 Guided inhale & exhale animations.
 
-⏱️ Timed breathing cycles
+⏱️ Timed breathing cycles.
 
 🎮 Interactive and user-friendly interface
 
