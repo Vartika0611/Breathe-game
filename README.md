@@ -1,8 +1,7 @@
 🌬️ Breathe – A Mindful Breathing Game
+
 📌 Overview
-
 Breathe is an interactive breathing game designed to help users reduce stress and improve focus through guided breathing exercises. The game provides visual cues and timed animations to encourage mindful inhaling and exhaling in a fun and engaging way.
-
 This project promotes mental wellness by combining simple game mechanics with scientifically proven breathing techniques.
 
 🎯 Features.
